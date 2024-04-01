@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|solutionrelative:manipulating.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|solutionrelative:fundamentals.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC5918DF-A0A4-4C07-9693-505F60635370}|Project1.vcxproj|solutionrelative:converting.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manipulating.c",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\manipulating.c",
+              "RelativeDocumentMoniker": "manipulating.c",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\manipulating.c",
+              "RelativeToolTip": "manipulating.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T22:50:43.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fundamentals.c",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\fundamentals.c",
+              "RelativeDocumentMoniker": "fundamentals.c",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\fundamentals.c",
+              "RelativeToolTip": "fundamentals.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T22:42:46.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "converting.c",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\converting.c",
+              "RelativeDocumentMoniker": "converting.c",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\work\\group proj\\Project1\\converting.c",
+              "RelativeToolTip": "converting.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T22:37:59.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
