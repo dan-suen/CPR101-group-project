@@ -4,6 +4,7 @@
 #define BUFFER_SIZE 80
 #define NUM_INPUT_SIZE 10
 #include "fundamentals.h"
+#include <string.h>
 
 void fundamentals(void) {
 
@@ -38,9 +39,10 @@ void fundamentals(void) {
 	do {
 		printf("Type a string (q - to quit):\n");
 		fgets(buffer2, BUFFER_SIZE, stdin);
-		buffer2[strlen(buffer2) -1] = 0)
-		printf("The length of \'%s\' is %d characters\n"),
-			buffer2, (int)strlens(buffer2));
-	} while (strcmp(buffer2, "q") != );
+		buffer2[strlen(buffer2) - 1] = '\0';
+		if (strcmp(buffer2, "q") != 0)
+			printf("The length of \'%s\' is %d characters\n",
+				buffer2, (int)strlen(buffer2));
+	} while (strcmp(buffer2, "q") != 0);
 	printf("*** End of Measuring String Demo ***\n\n");
 }

@@ -2,6 +2,7 @@
 #include "manipulating.h"
 #include "converting.h"
 #include "tokenizing.h"
+#include <string.h>
 
 int main(void) {
 	char buff[10];
